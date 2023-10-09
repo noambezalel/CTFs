@@ -1,6 +1,4 @@
 # CTFs
-This is a personal area for my self to document the CTFs that I'm doing.
-I've done some CTFs before but I do consider myself as a beginner. (02/10/2023)
+This is my area to document online CTFs that I'm doing and see the progress I'm making.
 
-BTW,
-I'm using obsidian text editor.
+I am using the Obsidian text editor.
